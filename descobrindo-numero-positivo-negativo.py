@@ -11,6 +11,6 @@ numero = int(input('Informe um numero: '))
 
 #fazendo as validações do numero para saber se é positivo ou negativo
 if numero >= 0 :
-    print(f'O numero {numero} é um numero POSITIVO')
+    print(f'O numero {numero} é um numero POSITIVO ')
 else:
     print(f'O numero {numero} é um numero NEGATIVO')
